@@ -1,5 +1,15 @@
 # @umijs/tnf
 
+## 0.1.5
+
+### Patch Changes
+
+- [`9072730`](https://github.com/umijs/tnf/commit/9072730adeed491805e17376bdbd1aa78ab30c19) Thanks [@sorrycc](https://github.com/sorrycc)! - feat: add defineConfig api
+
+- [#53](https://github.com/umijs/tnf/pull/53) [`e6ed386`](https://github.com/umijs/tnf/commit/e6ed386304b3b19691adf147c702ceedb784410b) Thanks [@QDyanbing](https://github.com/QDyanbing)! - support clickToComponent
+
+- [`8b79132`](https://github.com/umijs/tnf/commit/8b791324dc16da0e512bf61e327a5682824f4f0e) Thanks [@sorrycc](https://github.com/sorrycc)! - feat: basic ssr
+
 ## 0.1.4
 
 ### Patch Changes
